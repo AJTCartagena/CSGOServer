@@ -54,6 +54,8 @@ _Una vez acabado este proceso, tendrás que añadir un [Steam Game Server Login 
 
 _Si no sabes dónde añadir el GSLT haz [click aquí.](https://github.com/aruznieto/CSGO_Server/wiki/%C2%BFC%C3%B3mo-a%C3%B1ado-o-cambio-el-GSLT%3F)_
 
+_¡!Recuerda!! Si vas a instalar más de un servidor los GSLT tienen que ser únicos_
+
 ## Ejecutando las pruebas ⚙️
 _Para saber si tu servidor se está ejecutando correctamente o te da algún fallo que no sabes solucionar puedes poner lo siguiente._
 ```
